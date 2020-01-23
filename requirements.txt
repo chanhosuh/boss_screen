@@ -28,7 +28,7 @@ pytz==2018.5
 qrcode==6.0
 raven==6.9.0
 redgreenunittest==0.1.1
-requests==2.19.1
+requests==2.20.0
 xlrd==1.1.0
 ## The following requirements were added by pip freeze:
 amqp==2.3.2
